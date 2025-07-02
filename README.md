@@ -2,9 +2,6 @@
 
 Uma aplicação de batalha de monstros desenvolvida em **Next.js** (**React** e **TypeScript**).
 
-## 📍 Repositório
-
-🔗 **GitHub**: [https://github.com/caiquestow/revi-TEST](https://github.com/caiquestow/revi-TEST)
 
 ---
 
