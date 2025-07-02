@@ -39,7 +39,6 @@ export default function HomeClient() {
         {/* Header temático */}
         <header className="py-6 flex justify-center items-center border-b border-indigo-800 bg-gradient-to-r from-indigo-900 via-gray-900 to-green-900">
           <div className="flex items-center gap-4">
-            <span className="text-4xl">👾</span>
             <h1 className="text-4xl md:text-5xl font-extrabold tracking-widest text-indigo-300 uppercase">
               Batalha de Monstros
             </h1>
